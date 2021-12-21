@@ -9,18 +9,18 @@
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.desc {
+.lasagna.desc {
   text-decoration-line: overline;
   color: orange;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.ingr {
+.lasagna.ingr {
   color: red;
   font-style: oblique;
 }
 
-.steps {
+.lasagna.steps {
   background-color: beige;
   color: green;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -36,3 +36,19 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.mojito {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.caution {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: red;
+  font-size: xx-large;
+}
+
+.mojito.desc {
+  color: lightgreen;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
