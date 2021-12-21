@@ -6,18 +6,26 @@
   text-decoration-line: underline;
   color: orange;
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .desc {
   text-decoration-line: overline;
   color: orange;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .ingr {
   color: red;
+  font-style: oblique;
 }
 
 .steps {
   background-color: beige;
   color: green;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fancy {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
