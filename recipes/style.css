@@ -1,0 +1,22 @@
+.lasagna {
+  color: orange;
+  text-transform: lowercase; 
+}
+
+.head {
+  text-decoration-line: underline;
+  text-align: center;
+}
+
+.desc {
+  text-decoration-line: overline;
+}
+
+.ingr {
+  color: red;
+}
+
+.steps {
+  background-color: beige;
+  color: green;
+}
