@@ -64,3 +64,12 @@
 .old.head {
   color: rgba(255, 140, 0, 0.767);
 }
+
+.old {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.old.head {
+  color: brown;
+  text-decoration: none;
+}
